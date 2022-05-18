@@ -74,6 +74,20 @@ let allQuotes = [
     nom: "Serge Gainsbourg",
     citation: "Je connais mes limites. C'est pourquoi je vais au-delà.",
   },
+  {
+    nom: "Gandalf",
+    citation:
+      "Je crois que ce sont les petites choses, les gestes quotidiens des gens ordinaires qui nous préservent du mal.",
+  },
+  {
+    nom: "J.D. (Scrubs)",
+    citation:
+      "La vie est faite de hauts et de bas. Même que parfois, le haut ne va pas du tout avec le bas.",
+  },
+  {
+    nom: "Proverbe indien",
+    citation: "Si tu vois tout en gris, déplace l'éléphant !",
+  },
 ];
 
 //créer la fonction + la méthode aléatoire
